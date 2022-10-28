@@ -1,0 +1,17 @@
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\bin\Debug\netcoreapp3.1\Math.exe
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\bin\Debug\netcoreapp3.1\Math.deps.json
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.json
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.dev.json
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\bin\Debug\netcoreapp3.1\Math.dll
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\bin\Debug\netcoreapp3.1\Math.pdb
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\obj\Debug\netcoreapp3.1\Math.csproj.AssemblyReference.cache
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\obj\Debug\netcoreapp3.1\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\obj\Debug\netcoreapp3.1\Math.csproj.CopyComplete
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\obj\Debug\netcoreapp3.1\Math.dll
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\obj\Debug\netcoreapp3.1\Math.pdb
+C:\Users\FX706HCB\Desktop\Code Academy\C# programming language\Extension method and Login, CheckRoles method\Math\obj\Debug\netcoreapp3.1\Math.genruntimeconfig.cache
